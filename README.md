@@ -1,6 +1,6 @@
 # coinbase-clone
 Coinbase Blockchain Web 3.0 App with Next.js
-![Coinbase clone](https://github.com/rvslan/coinbase-clonse/blob/main/screenshot.png?raw=true)
+![Coinbase clone](https://github.com/rvslan/coinbase-clone/blob/main/screenshot.png?raw=true)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
